@@ -1,5 +1,5 @@
 ID,Date,Outlook,Temperature,Humidity,Windy,Label: Play?
-1,9/1/2017,Sunny,Hot,High,False",No
+1,9/1/2017,Sunny,Hot,High,"False",No
 2,9/8/2017,Sunny,Hot,High,"True",No
 3,9/15/2017,Overcast,Hot,High,"False",Yes
 4,9/22/2017,Rainy,Mild,High,"False",Yes
